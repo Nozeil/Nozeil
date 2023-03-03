@@ -32,7 +32,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23f2f2f2.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23f2f2f2.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
-## Pet projects 
+<!--
+
+rolling scopes projects
 | Deploy | Repository |
 | :---: | :---: |
 | [Project Management App](https://nozeil.github.io/project-management-app/) | [project-management-app](https://github.com/Nozeil/project-management-app) |
@@ -51,10 +53,6 @@
 | [Custom Video Player](https://nozeil.github.io/RSSchool-JSFEPRESCHOOL2022/portfolio/#video) | [RSSchool-JSFEPRESCHOOL2022](https://github.com/Nozeil/RSSchool-JSFEPRESCHOOL2022/tree/portfolio-video) |
 | [Photographer's Portfolio](https://nozeil.github.io/RSSchool-JSFEPRESCHOOL2022/portfolio/) | [RSSchool-JSFEPRESCHOOL2022](https://github.com/Nozeil/RSSchool-JSFEPRESCHOOL2022/tree/gh-pages/portfolio) |
 | [RSSchool CV](https://nozeil.github.io/rsschool-cv/) | [rsschool-cv](https://github.com/Nozeil/rsschool-cv) |
-
-
-
-<!--
 
 **Nozeil/Nozeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
